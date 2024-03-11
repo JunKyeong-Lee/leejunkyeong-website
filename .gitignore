@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production => 사이트 제작용으로 build 파일도 같이 올린다.
+# /build
 
 # misc
 .DS_Store
